@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+}
+
+div.wrapper {
+    width:80%;
+    margin:auto;
+    background-color:#ccc;
+}
